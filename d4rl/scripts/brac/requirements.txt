@@ -1,7 +1,7 @@
 gym
 h5py
-git+git://github.com/aravindr93/mjrl@master#egg=mjrl
-git+git://github.com/rlworkgroup/metaworld.git@master#egg=metaworld
+https://github.com/aravindr93/mjrl/archive/master.zip#egg=mjrl
+https://github.com/rlworkgroup/metaworld/archive/master.zip#egg=metaworld
 scipy
 lxml==4.4.1
 pyprind==2.11.2
