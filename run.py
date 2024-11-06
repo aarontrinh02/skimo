@@ -33,7 +33,7 @@ def main(cfg: DictConfig) -> None:
     OmegaConf.set_struct(cfg, False)
 
     # Change default config
-    cfg.wandb_entity = "clvr"
+    cfg.wandb_entity = "aarontrinh02-georgia-institute-of-technology"
     cfg.wandb_project = "p-skill-model"
 
     # Execute training code
